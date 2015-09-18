@@ -1,7 +1,7 @@
 
 
 /* Part-2
-    Assignment1
+    Assignment1, Sub branch
     JavaScript File
     script.js
  */
